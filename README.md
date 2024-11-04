@@ -45,6 +45,14 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/marsoncall.git
 
-## 
-This Markdown provides a structured README for your project. Let me know if you'd like further customization!
+## Contributing
+If you’d like to contribute to MarsOnCall:
+
+##Fork the repository.
+Create a new branch for your feature (git checkout -b feature-name).
+Commit your changes (git commit -m 'Add new feature').
+Push to the branch (git push origin feature-name).
+Open a Pull Request.
+#License
+This project is open source and available under the MIT License
 
