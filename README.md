@@ -48,11 +48,11 @@ To run this project locally, follow these steps:
 ## Contributing
 If you’d like to contribute to MarsOnCall:
 
-##Fork the repository.
+# Fork the repository.
 Create a new branch for your feature (git checkout -b feature-name).
 Commit your changes (git commit -m 'Add new feature').
 Push to the branch (git push origin feature-name).
 Open a Pull Request.
-#License
+# License
 This project is open source and available under the MIT License
 
